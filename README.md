@@ -1,2 +1,2 @@
-# Mini-projects
-This includes mini projects  regarding Artificial Intelligence, Machine Learning, Intelligent vehicles, Embedded parallel computing
+# Artificial Intelligence
+This includes small exercises regarding different type of agents, Uninformed, informed searches, Bayesian Networks and Re-inforcement learning.
