@@ -1,0 +1,10 @@
+Poker Game:
+Step1: In the first step i used two for loops to make a complete deck of 52 cards and then i picked six of them randomly after that i randomly 
+picked 3 from 6 and gave it one player and rest 3 to other.
+Step2: In step 2 i defined two functions random and fixed bidding .
+Step 3: In step three i altered the analyze hand function for "Three of kind" and "High Cards" for that purpose i used each card's position in rank 
+list and compared them.
+Step 4: In this step i made to play a random agent vs fixed agent and in my point of view the random agent performs better due to its random values.
+Step 5: In step 5 i defined a function for reflex agent and made it play againts both fixed and random agent , It takes decision according to the amount
+bidded by the opponent in the previous bid and its own hand as well.
+Step 6: In my observation the reflex agent performs better than the random agent.

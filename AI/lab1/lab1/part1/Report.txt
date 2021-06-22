@@ -1,0 +1,7 @@
+
+Pioneer Robot:
+Step 1: In the first step i created a Function imp and gave the both wheels some random values so that it can behave randomly
+Step 2: In the second step i created a funt imp1 and gave the wheels some fixed value for specific time regardless of the sensor values
+Step 3: In this step i implemented a Reflex agent in a seperate file Task3 and function imp2 and used both sensors ultrasonic and Energy sensors as well.
+Step 4: In this step i used a timer and implemented it if a robot gets stuck in some where it should initialize a timer and take the difference to the main timer
+and perform the given actions.
